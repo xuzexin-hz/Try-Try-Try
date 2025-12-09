@@ -62,4 +62,9 @@
 
 [好的软件推荐](https://plugins.jetbrains.com/search?pricingModels=PAID)
 
+
+<font color=red size=36 face="黑体">*[**自动化项目**](docs/imgs/240504%E5%BD%95%E5%B1%8F.mp4)</font>
+
+**请仔细查看第50秒的视频，界面上有js控制的按钮，鼠标由python控制，一个完美的多语言多模块协同案例**
+
 ### 从java生态到kotlin生态,再到AI Agent,一步一个脚印,走出属于自己的路
